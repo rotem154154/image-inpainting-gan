@@ -1,3 +1,3 @@
 # image-inpainting-gan
 
-![Screenshot](ScreenShot.png)
+![Screenshot](Screenshot.png)
